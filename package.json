@@ -1,0 +1,8 @@
+{
+  "name": "Particles Analyser",
+  "version": "1.0.0",
+  "description": "Check distance and create collision beetween some \"Particles\"",
+  "main": "main.js",
+  "author": "DerSon",
+  "license": "MIT"
+}
