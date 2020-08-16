@@ -16,7 +16,5 @@ So we should have _gravity=-gravity*0.9_
 # if we use "AIR DENSITY=.9" (density should be <1 and >0)
 ------------------------------------------------
 THANKS FOR READING !
-/{% blockquote DerSon, myquote %}
 D3R50N👤
-{% endblockquote %}
 ------------------------------------------------
